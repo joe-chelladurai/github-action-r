@@ -16,7 +16,7 @@ jobs:
     - name: Install additional R packages
       run: |
         install.packages(c(
-          "janitor",
+          "janitor"
         ), repos = "https://cloud.r-project.org")
       shell: Rscript {0}
       
