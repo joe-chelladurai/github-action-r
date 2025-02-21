@@ -1,0 +1,17 @@
+name: R Analysis Test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  r-analysis:
+    runs-on: ubuntu-latest
+    container:
+      image: rocker/tidyverse:latest
+    
+    steps:
+    - uses: actions/checkout@v3
+      
+    - name: Run R script
+      run: |
+        Rscript analysis.R
