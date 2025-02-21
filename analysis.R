@@ -1,4 +1,5 @@
 # Simple test script
 library(tidyverse)
 print("Hello world!")
-cat("Tidyverse version:", packageVersion("tidyverse"), "\n")
+cat("Tidyverse version:", as.character(packageVersion("tidyverse")), "\n")
+library(rvest)
