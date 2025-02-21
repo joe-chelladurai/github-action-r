@@ -11,6 +11,14 @@ jobs:
     
     steps:
     - uses: actions/checkout@v3
+
+
+    - name: Install additional R packages
+      run: |
+        install.packages(c(
+          "janitor",
+        ), repos = "https://cloud.r-project.org")
+      shell: Rscript {0}
       
     - name: Run R script
       run: |
