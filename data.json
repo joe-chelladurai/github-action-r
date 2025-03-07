@@ -1,14 +1,14 @@
 [
   {
     "name": "Liverpool",
-    "mp": 27,
-    "w": 19,
+    "mp": 28,
+    "w": 20,
     "d": 7,
     "l": 1,
-    "gf": 64,
+    "gf": 66,
     "ga": 26,
-    "gd": 38,
-    "pts": 64,
+    "gd": 40,
+    "pts": 67,
     "top_team_scorer": "Mohamed Salah - 25",
     "form": [
       {
@@ -202,10 +202,10 @@
       },
       {
         "date": "26/2",
-        "result": null,
+        "result": "W",
         "opponent": "NEW",
         "isHome": true,
-        "score": "-"
+        "score": "2-0"
       },
       {
         "date": "8/3",
@@ -222,28 +222,28 @@
         "score": "-"
       },
       {
-        "date": "5/4",
+        "date": "6/4",
         "result": null,
         "opponent": "FUL",
         "isHome": false,
         "score": "-"
       },
       {
-        "date": "12/4",
+        "date": "13/4",
         "result": null,
         "opponent": "WHU",
         "isHome": true,
         "score": "-"
       },
       {
-        "date": "19/4",
+        "date": "20/4",
         "result": null,
         "opponent": "LEI",
         "isHome": false,
         "score": "-"
       },
       {
-        "date": "26/4",
+        "date": "27/4",
         "result": null,
         "opponent": "TOT",
         "isHome": true,
@@ -282,14 +282,14 @@
   },
   {
     "name": "Arsenal",
-    "mp": 26,
+    "mp": 27,
     "w": 15,
-    "d": 8,
+    "d": 9,
     "l": 3,
     "gf": 51,
     "ga": 23,
     "gd": 28,
-    "pts": 53,
+    "pts": 54,
     "top_team_scorer": "Kai Havertz - 9",
     "form": [
       {
@@ -476,10 +476,10 @@
       },
       {
         "date": "26/2",
-        "result": null,
+        "result": "D",
         "opponent": "NOT",
         "isHome": false,
-        "score": "-"
+        "score": "0-0"
       },
       {
         "date": "9/3",
@@ -517,7 +517,7 @@
         "score": "-"
       },
       {
-        "date": "19/4",
+        "date": "20/4",
         "result": null,
         "opponent": "IPS",
         "isHome": false,
@@ -563,14 +563,14 @@
   },
   {
     "name": "Nott'ham Forest",
-    "mp": 26,
+    "mp": 27,
     "w": 14,
-    "d": 5,
+    "d": 6,
     "l": 7,
     "gf": 44,
     "ga": 33,
     "gd": 11,
-    "pts": 47,
+    "pts": 48,
     "top_team_scorer": "Chris Wood - 18",
     "form": [
       {
@@ -757,10 +757,10 @@
       },
       {
         "date": "26/2",
-        "result": null,
+        "result": "D",
         "opponent": "ARS",
         "isHome": true,
-        "score": "-"
+        "score": "0-0"
       },
       {
         "date": "8/3",
@@ -798,7 +798,7 @@
         "score": "-"
       },
       {
-        "date": "19/4",
+        "date": "21/4",
         "result": null,
         "opponent": "TOT",
         "isHome": false,
@@ -844,15 +844,15 @@
   },
   {
     "name": "Manchester City",
-    "mp": 26,
-    "w": 13,
+    "mp": 27,
+    "w": 14,
     "d": 5,
     "l": 8,
-    "gf": 52,
+    "gf": 53,
     "ga": 37,
-    "gd": 15,
-    "pts": 44,
-    "top_team_scorer": "Erling Haaland - 19",
+    "gd": 16,
+    "pts": 47,
+    "top_team_scorer": "Erling Haaland - 20",
     "form": [
       {
         "date": "18/8",
@@ -1038,10 +1038,10 @@
       },
       {
         "date": "26/2",
-        "result": null,
+        "result": "W",
         "opponent": "TOT",
         "isHome": false,
-        "score": "-"
+        "score": "1-0"
       },
       {
         "date": "8/3",
@@ -1065,7 +1065,7 @@
         "score": "-"
       },
       {
-        "date": "5/4",
+        "date": "6/4",
         "result": null,
         "opponent": "MUN",
         "isHome": false,
@@ -1086,7 +1086,7 @@
         "score": "-"
       },
       {
-        "date": "26/4",
+        "date": "28/4",
         "result": null,
         "opponent": "AVL",
         "isHome": true,
@@ -1124,14 +1124,295 @@
     "rk": 4
   },
   {
+    "name": "Chelsea",
+    "mp": 27,
+    "w": 13,
+    "d": 7,
+    "l": 7,
+    "gf": 52,
+    "ga": 36,
+    "gd": 16,
+    "pts": 46,
+    "top_team_scorer": "Cole Palmer - 14",
+    "form": [
+      {
+        "date": "18/8",
+        "result": "L",
+        "opponent": "MCI",
+        "isHome": true,
+        "score": "0-2"
+      },
+      {
+        "date": "25/8",
+        "result": "W",
+        "opponent": "WOL",
+        "isHome": false,
+        "score": "6-2"
+      },
+      {
+        "date": "1/9",
+        "result": "D",
+        "opponent": "CRY",
+        "isHome": true,
+        "score": "1-1"
+      },
+      {
+        "date": "14/9",
+        "result": "W",
+        "opponent": "BOU",
+        "isHome": false,
+        "score": "1-0"
+      },
+      {
+        "date": "21/9",
+        "result": "W",
+        "opponent": "WHU",
+        "isHome": false,
+        "score": "3-0"
+      },
+      {
+        "date": "28/9",
+        "result": "W",
+        "opponent": "BRI",
+        "isHome": true,
+        "score": "4-2"
+      },
+      {
+        "date": "6/10",
+        "result": "D",
+        "opponent": "NOT",
+        "isHome": true,
+        "score": "1-1"
+      },
+      {
+        "date": "20/10",
+        "result": "L",
+        "opponent": "LIV",
+        "isHome": false,
+        "score": "1-2"
+      },
+      {
+        "date": "27/10",
+        "result": "W",
+        "opponent": "NEW",
+        "isHome": true,
+        "score": "2-1"
+      },
+      {
+        "date": "3/11",
+        "result": "D",
+        "opponent": "MUN",
+        "isHome": false,
+        "score": "1-1"
+      },
+      {
+        "date": "10/11",
+        "result": "D",
+        "opponent": "ARS",
+        "isHome": true,
+        "score": "1-1"
+      },
+      {
+        "date": "23/11",
+        "result": "W",
+        "opponent": "LEI",
+        "isHome": false,
+        "score": "2-1"
+      },
+      {
+        "date": "1/12",
+        "result": "W",
+        "opponent": "AVL",
+        "isHome": true,
+        "score": "3-0"
+      },
+      {
+        "date": "4/12",
+        "result": "W",
+        "opponent": "SOU",
+        "isHome": false,
+        "score": "5-1"
+      },
+      {
+        "date": "8/12",
+        "result": "W",
+        "opponent": "TOT",
+        "isHome": false,
+        "score": "4-3"
+      },
+      {
+        "date": "15/12",
+        "result": "W",
+        "opponent": "BRE",
+        "isHome": true,
+        "score": "2-1"
+      },
+      {
+        "date": "22/12",
+        "result": "D",
+        "opponent": "EVE",
+        "isHome": false,
+        "score": "0-0"
+      },
+      {
+        "date": "26/12",
+        "result": "L",
+        "opponent": "FUL",
+        "isHome": true,
+        "score": "1-2"
+      },
+      {
+        "date": "30/12",
+        "result": "L",
+        "opponent": "IPS",
+        "isHome": false,
+        "score": "0-2"
+      },
+      {
+        "date": "4/1",
+        "result": "D",
+        "opponent": "CRY",
+        "isHome": false,
+        "score": "1-1"
+      },
+      {
+        "date": "14/1",
+        "result": "D",
+        "opponent": "BOU",
+        "isHome": true,
+        "score": "2-2"
+      },
+      {
+        "date": "20/1",
+        "result": "W",
+        "opponent": "WOL",
+        "isHome": true,
+        "score": "3-1"
+      },
+      {
+        "date": "25/1",
+        "result": "L",
+        "opponent": "MCI",
+        "isHome": false,
+        "score": "1-3"
+      },
+      {
+        "date": "3/2",
+        "result": "W",
+        "opponent": "WHU",
+        "isHome": true,
+        "score": "2-1"
+      },
+      {
+        "date": "14/2",
+        "result": "L",
+        "opponent": "BRI",
+        "isHome": false,
+        "score": "0-3"
+      },
+      {
+        "date": "22/2",
+        "result": "L",
+        "opponent": "AVL",
+        "isHome": false,
+        "score": "1-2"
+      },
+      {
+        "date": "25/2",
+        "result": "W",
+        "opponent": "SOU",
+        "isHome": true,
+        "score": "4-0"
+      },
+      {
+        "date": "9/3",
+        "result": null,
+        "opponent": "LEI",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "16/3",
+        "result": null,
+        "opponent": "ARS",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "3/4",
+        "result": null,
+        "opponent": "TOT",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "6/4",
+        "result": null,
+        "opponent": "BRE",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "12/4",
+        "result": null,
+        "opponent": "IPS",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "19/4",
+        "result": null,
+        "opponent": "FUL",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "26/4",
+        "result": null,
+        "opponent": "EVE",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "3/5",
+        "result": null,
+        "opponent": "LIV",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "10/5",
+        "result": null,
+        "opponent": "NEW",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "18/5",
+        "result": null,
+        "opponent": "MUN",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "25/5",
+        "result": null,
+        "opponent": "NOT",
+        "isHome": false,
+        "score": "-"
+      }
+    ],
+    "rk": 5
+  },
+  {
     "name": "Newcastle Utd",
-    "mp": 26,
+    "mp": 27,
     "w": 13,
     "d": 5,
-    "l": 8,
+    "l": 9,
     "gf": 46,
-    "ga": 36,
-    "gd": 10,
+    "ga": 38,
+    "gd": 8,
     "pts": 44,
     "top_team_scorer": "Alexander Isak - 19",
     "form": [
@@ -1319,10 +1600,10 @@
       },
       {
         "date": "26/2",
-        "result": null,
+        "result": "L",
         "opponent": "LIV",
         "isHome": false,
-        "score": "-"
+        "score": "0-2"
       },
       {
         "date": "10/3",
@@ -1339,14 +1620,14 @@
         "score": "-"
       },
       {
-        "date": "5/4",
+        "date": "7/4",
         "result": null,
         "opponent": "LEI",
         "isHome": false,
         "score": "-"
       },
       {
-        "date": "12/4",
+        "date": "13/4",
         "result": null,
         "opponent": "MUN",
         "isHome": true,
@@ -1402,19 +1683,19 @@
         "score": "-"
       }
     ],
-    "rk": 5
+    "rk": 6
   },
   {
     "name": "Bournemouth",
-    "mp": 26,
+    "mp": 27,
     "w": 12,
     "d": 7,
-    "l": 7,
-    "gf": 44,
-    "ga": 30,
-    "gd": 14,
+    "l": 8,
+    "gf": 45,
+    "ga": 32,
+    "gd": 13,
     "pts": 43,
-    "top_team_scorer": "Justin Kluivert - 11",
+    "top_team_scorer": "Justin Kluivert - 12",
     "form": [
       {
         "date": "17/8",
@@ -1600,10 +1881,10 @@
       },
       {
         "date": "25/2",
-        "result": null,
+        "result": "L",
         "opponent": "BRI",
         "isHome": false,
-        "score": "-"
+        "score": "1-2"
       },
       {
         "date": "9/3",
@@ -1634,7 +1915,7 @@
         "score": "-"
       },
       {
-        "date": "12/4",
+        "date": "14/4",
         "result": null,
         "opponent": "FUL",
         "isHome": true,
@@ -1648,7 +1929,7 @@
         "score": "-"
       },
       {
-        "date": "26/4",
+        "date": "27/4",
         "result": null,
         "opponent": "MUN",
         "isHome": true,
@@ -1680,301 +1961,582 @@
         "result": null,
         "opponent": "LEI",
         "isHome": true,
-        "score": "-"
-      }
-    ],
-    "rk": 6
-  },
-  {
-    "name": "Chelsea",
-    "mp": 26,
-    "w": 12,
-    "d": 7,
-    "l": 7,
-    "gf": 48,
-    "ga": 36,
-    "gd": 12,
-    "pts": 43,
-    "top_team_scorer": "Cole Palmer - 14",
-    "form": [
-      {
-        "date": "18/8",
-        "result": "L",
-        "opponent": "MCI",
-        "isHome": true,
-        "score": "0-2"
-      },
-      {
-        "date": "25/8",
-        "result": "W",
-        "opponent": "WOL",
-        "isHome": false,
-        "score": "6-2"
-      },
-      {
-        "date": "1/9",
-        "result": "D",
-        "opponent": "CRY",
-        "isHome": true,
-        "score": "1-1"
-      },
-      {
-        "date": "14/9",
-        "result": "W",
-        "opponent": "BOU",
-        "isHome": false,
-        "score": "1-0"
-      },
-      {
-        "date": "21/9",
-        "result": "W",
-        "opponent": "WHU",
-        "isHome": false,
-        "score": "3-0"
-      },
-      {
-        "date": "28/9",
-        "result": "W",
-        "opponent": "BRI",
-        "isHome": true,
-        "score": "4-2"
-      },
-      {
-        "date": "6/10",
-        "result": "D",
-        "opponent": "NOT",
-        "isHome": true,
-        "score": "1-1"
-      },
-      {
-        "date": "20/10",
-        "result": "L",
-        "opponent": "LIV",
-        "isHome": false,
-        "score": "1-2"
-      },
-      {
-        "date": "27/10",
-        "result": "W",
-        "opponent": "NEW",
-        "isHome": true,
-        "score": "2-1"
-      },
-      {
-        "date": "3/11",
-        "result": "D",
-        "opponent": "MUN",
-        "isHome": false,
-        "score": "1-1"
-      },
-      {
-        "date": "10/11",
-        "result": "D",
-        "opponent": "ARS",
-        "isHome": true,
-        "score": "1-1"
-      },
-      {
-        "date": "23/11",
-        "result": "W",
-        "opponent": "LEI",
-        "isHome": false,
-        "score": "2-1"
-      },
-      {
-        "date": "1/12",
-        "result": "W",
-        "opponent": "AVL",
-        "isHome": true,
-        "score": "3-0"
-      },
-      {
-        "date": "4/12",
-        "result": "W",
-        "opponent": "SOU",
-        "isHome": false,
-        "score": "5-1"
-      },
-      {
-        "date": "8/12",
-        "result": "W",
-        "opponent": "TOT",
-        "isHome": false,
-        "score": "4-3"
-      },
-      {
-        "date": "15/12",
-        "result": "W",
-        "opponent": "BRE",
-        "isHome": true,
-        "score": "2-1"
-      },
-      {
-        "date": "22/12",
-        "result": "D",
-        "opponent": "EVE",
-        "isHome": false,
-        "score": "0-0"
-      },
-      {
-        "date": "26/12",
-        "result": "L",
-        "opponent": "FUL",
-        "isHome": true,
-        "score": "1-2"
-      },
-      {
-        "date": "30/12",
-        "result": "L",
-        "opponent": "IPS",
-        "isHome": false,
-        "score": "0-2"
-      },
-      {
-        "date": "4/1",
-        "result": "D",
-        "opponent": "CRY",
-        "isHome": false,
-        "score": "1-1"
-      },
-      {
-        "date": "14/1",
-        "result": "D",
-        "opponent": "BOU",
-        "isHome": true,
-        "score": "2-2"
-      },
-      {
-        "date": "20/1",
-        "result": "W",
-        "opponent": "WOL",
-        "isHome": true,
-        "score": "3-1"
-      },
-      {
-        "date": "25/1",
-        "result": "L",
-        "opponent": "MCI",
-        "isHome": false,
-        "score": "1-3"
-      },
-      {
-        "date": "3/2",
-        "result": "W",
-        "opponent": "WHU",
-        "isHome": true,
-        "score": "2-1"
-      },
-      {
-        "date": "14/2",
-        "result": "L",
-        "opponent": "BRI",
-        "isHome": false,
-        "score": "0-3"
-      },
-      {
-        "date": "22/2",
-        "result": "L",
-        "opponent": "AVL",
-        "isHome": false,
-        "score": "1-2"
-      },
-      {
-        "date": "25/2",
-        "result": null,
-        "opponent": "SOU",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "9/3",
-        "result": null,
-        "opponent": "LEI",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "16/3",
-        "result": null,
-        "opponent": "ARS",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "2/4",
-        "result": null,
-        "opponent": "TOT",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "5/4",
-        "result": null,
-        "opponent": "BRE",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "12/4",
-        "result": null,
-        "opponent": "IPS",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "19/4",
-        "result": null,
-        "opponent": "FUL",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "26/4",
-        "result": null,
-        "opponent": "EVE",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "3/5",
-        "result": null,
-        "opponent": "LIV",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "10/5",
-        "result": null,
-        "opponent": "NEW",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "18/5",
-        "result": null,
-        "opponent": "MUN",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "25/5",
-        "result": null,
-        "opponent": "NOT",
-        "isHome": false,
         "score": "-"
       }
     ],
     "rk": 7
   },
   {
-    "name": "Aston Villa",
+    "name": "Brighton",
+    "mp": 27,
+    "w": 11,
+    "d": 10,
+    "l": 6,
+    "gf": 44,
+    "ga": 39,
+    "gd": 5,
+    "pts": 43,
+    "top_team_scorer": "Danny Welbeck, Kaoru Mitoma... - 7",
+    "form": [
+      {
+        "date": "17/8",
+        "result": "W",
+        "opponent": "EVE",
+        "isHome": false,
+        "score": "3-0"
+      },
+      {
+        "date": "24/8",
+        "result": "W",
+        "opponent": "MUN",
+        "isHome": true,
+        "score": "2-1"
+      },
+      {
+        "date": "31/8",
+        "result": "D",
+        "opponent": "ARS",
+        "isHome": false,
+        "score": "1-1"
+      },
+      {
+        "date": "14/9",
+        "result": "D",
+        "opponent": "IPS",
+        "isHome": true,
+        "score": "0-0"
+      },
+      {
+        "date": "22/9",
+        "result": "D",
+        "opponent": "NOT",
+        "isHome": true,
+        "score": "2-2"
+      },
+      {
+        "date": "28/9",
+        "result": "L",
+        "opponent": "CHE",
+        "isHome": false,
+        "score": "2-4"
+      },
+      {
+        "date": "6/10",
+        "result": "W",
+        "opponent": "TOT",
+        "isHome": true,
+        "score": "3-2"
+      },
+      {
+        "date": "19/10",
+        "result": "W",
+        "opponent": "NEW",
+        "isHome": false,
+        "score": "1-0"
+      },
+      {
+        "date": "26/10",
+        "result": "D",
+        "opponent": "WOL",
+        "isHome": true,
+        "score": "2-2"
+      },
+      {
+        "date": "2/11",
+        "result": "L",
+        "opponent": "LIV",
+        "isHome": false,
+        "score": "1-2"
+      },
+      {
+        "date": "9/11",
+        "result": "W",
+        "opponent": "MCI",
+        "isHome": true,
+        "score": "2-1"
+      },
+      {
+        "date": "23/11",
+        "result": "W",
+        "opponent": "BOU",
+        "isHome": false,
+        "score": "2-1"
+      },
+      {
+        "date": "29/11",
+        "result": "D",
+        "opponent": "SOU",
+        "isHome": true,
+        "score": "1-1"
+      },
+      {
+        "date": "5/12",
+        "result": "L",
+        "opponent": "FUL",
+        "isHome": false,
+        "score": "1-3"
+      },
+      {
+        "date": "8/12",
+        "result": "D",
+        "opponent": "LEI",
+        "isHome": false,
+        "score": "2-2"
+      },
+      {
+        "date": "15/12",
+        "result": "L",
+        "opponent": "CRY",
+        "isHome": true,
+        "score": "1-3"
+      },
+      {
+        "date": "21/12",
+        "result": "D",
+        "opponent": "WHU",
+        "isHome": false,
+        "score": "1-1"
+      },
+      {
+        "date": "27/12",
+        "result": "D",
+        "opponent": "BRE",
+        "isHome": true,
+        "score": "0-0"
+      },
+      {
+        "date": "30/12",
+        "result": "D",
+        "opponent": "AVL",
+        "isHome": false,
+        "score": "2-2"
+      },
+      {
+        "date": "4/1",
+        "result": "D",
+        "opponent": "ARS",
+        "isHome": true,
+        "score": "1-1"
+      },
+      {
+        "date": "16/1",
+        "result": "W",
+        "opponent": "IPS",
+        "isHome": false,
+        "score": "2-0"
+      },
+      {
+        "date": "19/1",
+        "result": "W",
+        "opponent": "MUN",
+        "isHome": false,
+        "score": "3-1"
+      },
+      {
+        "date": "25/1",
+        "result": "L",
+        "opponent": "EVE",
+        "isHome": true,
+        "score": "0-1"
+      },
+      {
+        "date": "1/2",
+        "result": "L",
+        "opponent": "NOT",
+        "isHome": false,
+        "score": "0-7"
+      },
+      {
+        "date": "14/2",
+        "result": "W",
+        "opponent": "CHE",
+        "isHome": true,
+        "score": "3-0"
+      },
+      {
+        "date": "22/2",
+        "result": "W",
+        "opponent": "SOU",
+        "isHome": false,
+        "score": "4-0"
+      },
+      {
+        "date": "25/2",
+        "result": "W",
+        "opponent": "BOU",
+        "isHome": true,
+        "score": "2-1"
+      },
+      {
+        "date": "8/3",
+        "result": null,
+        "opponent": "FUL",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "15/3",
+        "result": null,
+        "opponent": "MCI",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "1/4",
+        "result": null,
+        "opponent": "AVL",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "5/4",
+        "result": null,
+        "opponent": "CRY",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "12/4",
+        "result": null,
+        "opponent": "LEI",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "19/4",
+        "result": null,
+        "opponent": "BRE",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "26/4",
+        "result": null,
+        "opponent": "WHU",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "3/5",
+        "result": null,
+        "opponent": "NEW",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "10/5",
+        "result": null,
+        "opponent": "WOL",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "18/5",
+        "result": null,
+        "opponent": "LIV",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "25/5",
+        "result": null,
+        "opponent": "TOT",
+        "isHome": false,
+        "score": "-"
+      }
+    ],
+    "rk": 8
+  },
+  {
+    "name": "Fulham",
     "mp": 27,
     "w": 11,
     "d": 9,
     "l": 7,
-    "gf": 39,
-    "ga": 41,
-    "gd": -2,
+    "gf": 40,
+    "ga": 36,
+    "gd": 4,
+    "pts": 42,
+    "top_team_scorer": "Raúl Jiménez - 9",
+    "form": [
+      {
+        "date": "16/8",
+        "result": "L",
+        "opponent": "MUN",
+        "isHome": false,
+        "score": "0-1"
+      },
+      {
+        "date": "24/8",
+        "result": "W",
+        "opponent": "LEI",
+        "isHome": true,
+        "score": "2-1"
+      },
+      {
+        "date": "31/8",
+        "result": "D",
+        "opponent": "IPS",
+        "isHome": false,
+        "score": "1-1"
+      },
+      {
+        "date": "14/9",
+        "result": "D",
+        "opponent": "WHU",
+        "isHome": true,
+        "score": "1-1"
+      },
+      {
+        "date": "21/9",
+        "result": "W",
+        "opponent": "NEW",
+        "isHome": true,
+        "score": "3-1"
+      },
+      {
+        "date": "28/9",
+        "result": "W",
+        "opponent": "NOT",
+        "isHome": false,
+        "score": "1-0"
+      },
+      {
+        "date": "5/10",
+        "result": "L",
+        "opponent": "MCI",
+        "isHome": false,
+        "score": "2-3"
+      },
+      {
+        "date": "19/10",
+        "result": "L",
+        "opponent": "AVL",
+        "isHome": true,
+        "score": "1-3"
+      },
+      {
+        "date": "26/10",
+        "result": "D",
+        "opponent": "EVE",
+        "isHome": false,
+        "score": "1-1"
+      },
+      {
+        "date": "4/11",
+        "result": "W",
+        "opponent": "BRE",
+        "isHome": true,
+        "score": "2-1"
+      },
+      {
+        "date": "9/11",
+        "result": "W",
+        "opponent": "CRY",
+        "isHome": false,
+        "score": "2-0"
+      },
+      {
+        "date": "23/11",
+        "result": "L",
+        "opponent": "WOL",
+        "isHome": true,
+        "score": "1-4"
+      },
+      {
+        "date": "1/12",
+        "result": "D",
+        "opponent": "TOT",
+        "isHome": false,
+        "score": "1-1"
+      },
+      {
+        "date": "5/12",
+        "result": "W",
+        "opponent": "BRI",
+        "isHome": true,
+        "score": "3-1"
+      },
+      {
+        "date": "8/12",
+        "result": "D",
+        "opponent": "ARS",
+        "isHome": true,
+        "score": "1-1"
+      },
+      {
+        "date": "14/12",
+        "result": "D",
+        "opponent": "LIV",
+        "isHome": false,
+        "score": "2-2"
+      },
+      {
+        "date": "22/12",
+        "result": "D",
+        "opponent": "SOU",
+        "isHome": true,
+        "score": "0-0"
+      },
+      {
+        "date": "26/12",
+        "result": "W",
+        "opponent": "CHE",
+        "isHome": false,
+        "score": "2-1"
+      },
+      {
+        "date": "29/12",
+        "result": "D",
+        "opponent": "BOU",
+        "isHome": true,
+        "score": "2-2"
+      },
+      {
+        "date": "5/1",
+        "result": "D",
+        "opponent": "IPS",
+        "isHome": true,
+        "score": "2-2"
+      },
+      {
+        "date": "14/1",
+        "result": "L",
+        "opponent": "WHU",
+        "isHome": false,
+        "score": "2-3"
+      },
+      {
+        "date": "18/1",
+        "result": "W",
+        "opponent": "LEI",
+        "isHome": false,
+        "score": "2-0"
+      },
+      {
+        "date": "26/1",
+        "result": "L",
+        "opponent": "MUN",
+        "isHome": true,
+        "score": "0-1"
+      },
+      {
+        "date": "1/2",
+        "result": "W",
+        "opponent": "NEW",
+        "isHome": false,
+        "score": "2-1"
+      },
+      {
+        "date": "15/2",
+        "result": "W",
+        "opponent": "NOT",
+        "isHome": true,
+        "score": "2-1"
+      },
+      {
+        "date": "22/2",
+        "result": "L",
+        "opponent": "CRY",
+        "isHome": true,
+        "score": "0-2"
+      },
+      {
+        "date": "25/2",
+        "result": "W",
+        "opponent": "WOL",
+        "isHome": false,
+        "score": "2-1"
+      },
+      {
+        "date": "8/3",
+        "result": null,
+        "opponent": "BRI",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "16/3",
+        "result": null,
+        "opponent": "TOT",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "1/4",
+        "result": null,
+        "opponent": "ARS",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "6/4",
+        "result": null,
+        "opponent": "LIV",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "14/4",
+        "result": null,
+        "opponent": "BOU",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "19/4",
+        "result": null,
+        "opponent": "CHE",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "26/4",
+        "result": null,
+        "opponent": "SOU",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "3/5",
+        "result": null,
+        "opponent": "AVL",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "10/5",
+        "result": null,
+        "opponent": "EVE",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "18/5",
+        "result": null,
+        "opponent": "BRE",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "25/5",
+        "result": null,
+        "opponent": "MCI",
+        "isHome": true,
+        "score": "-"
+      }
+    ],
+    "rk": 9
+  },
+  {
+    "name": "Aston Villa",
+    "mp": 28,
+    "w": 11,
+    "d": 9,
+    "l": 8,
+    "gf": 40,
+    "ga": 45,
+    "gd": -5,
     "pts": 42,
     "top_team_scorer": "Ollie Watkins - 12",
     "form": [
@@ -2169,641 +2731,79 @@
       },
       {
         "date": "25/2",
-        "result": null,
-        "opponent": "CRY",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "8/3",
-        "result": null,
-        "opponent": "BRE",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "1/4",
-        "result": null,
-        "opponent": "BRI",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "5/4",
-        "result": null,
-        "opponent": "NOT",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "12/4",
-        "result": null,
-        "opponent": "SOU",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "19/4",
-        "result": null,
-        "opponent": "NEW",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "26/4",
-        "result": null,
-        "opponent": "MCI",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "3/5",
-        "result": null,
-        "opponent": "FUL",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "10/5",
-        "result": null,
-        "opponent": "BOU",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "18/5",
-        "result": null,
-        "opponent": "TOT",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "25/5",
-        "result": null,
-        "opponent": "MUN",
-        "isHome": false,
-        "score": "-"
-      }
-    ],
-    "rk": 8
-  },
-  {
-    "name": "Brighton",
-    "mp": 26,
-    "w": 10,
-    "d": 10,
-    "l": 6,
-    "gf": 42,
-    "ga": 38,
-    "gd": 4,
-    "pts": 40,
-    "top_team_scorer": "Kaoru Mitoma - 7",
-    "form": [
-      {
-        "date": "17/8",
-        "result": "W",
-        "opponent": "EVE",
-        "isHome": false,
-        "score": "3-0"
-      },
-      {
-        "date": "24/8",
-        "result": "W",
-        "opponent": "MUN",
-        "isHome": true,
-        "score": "2-1"
-      },
-      {
-        "date": "31/8",
-        "result": "D",
-        "opponent": "ARS",
-        "isHome": false,
-        "score": "1-1"
-      },
-      {
-        "date": "14/9",
-        "result": "D",
-        "opponent": "IPS",
-        "isHome": true,
-        "score": "0-0"
-      },
-      {
-        "date": "22/9",
-        "result": "D",
-        "opponent": "NOT",
-        "isHome": true,
-        "score": "2-2"
-      },
-      {
-        "date": "28/9",
-        "result": "L",
-        "opponent": "CHE",
-        "isHome": false,
-        "score": "2-4"
-      },
-      {
-        "date": "6/10",
-        "result": "W",
-        "opponent": "TOT",
-        "isHome": true,
-        "score": "3-2"
-      },
-      {
-        "date": "19/10",
-        "result": "W",
-        "opponent": "NEW",
-        "isHome": false,
-        "score": "1-0"
-      },
-      {
-        "date": "26/10",
-        "result": "D",
-        "opponent": "WOL",
-        "isHome": true,
-        "score": "2-2"
-      },
-      {
-        "date": "2/11",
-        "result": "L",
-        "opponent": "LIV",
-        "isHome": false,
-        "score": "1-2"
-      },
-      {
-        "date": "9/11",
-        "result": "W",
-        "opponent": "MCI",
-        "isHome": true,
-        "score": "2-1"
-      },
-      {
-        "date": "23/11",
-        "result": "W",
-        "opponent": "BOU",
-        "isHome": false,
-        "score": "2-1"
-      },
-      {
-        "date": "29/11",
-        "result": "D",
-        "opponent": "SOU",
-        "isHome": true,
-        "score": "1-1"
-      },
-      {
-        "date": "5/12",
-        "result": "L",
-        "opponent": "FUL",
-        "isHome": false,
-        "score": "1-3"
-      },
-      {
-        "date": "8/12",
-        "result": "D",
-        "opponent": "LEI",
-        "isHome": false,
-        "score": "2-2"
-      },
-      {
-        "date": "15/12",
         "result": "L",
         "opponent": "CRY",
-        "isHome": true,
-        "score": "1-3"
-      },
-      {
-        "date": "21/12",
-        "result": "D",
-        "opponent": "WHU",
         "isHome": false,
-        "score": "1-1"
-      },
-      {
-        "date": "27/12",
-        "result": "D",
-        "opponent": "BRE",
-        "isHome": true,
-        "score": "0-0"
-      },
-      {
-        "date": "30/12",
-        "result": "D",
-        "opponent": "AVL",
-        "isHome": false,
-        "score": "2-2"
-      },
-      {
-        "date": "4/1",
-        "result": "D",
-        "opponent": "ARS",
-        "isHome": true,
-        "score": "1-1"
-      },
-      {
-        "date": "16/1",
-        "result": "W",
-        "opponent": "IPS",
-        "isHome": false,
-        "score": "2-0"
-      },
-      {
-        "date": "19/1",
-        "result": "W",
-        "opponent": "MUN",
-        "isHome": false,
-        "score": "3-1"
-      },
-      {
-        "date": "25/1",
-        "result": "L",
-        "opponent": "EVE",
-        "isHome": true,
-        "score": "0-1"
-      },
-      {
-        "date": "1/2",
-        "result": "L",
-        "opponent": "NOT",
-        "isHome": false,
-        "score": "0-7"
-      },
-      {
-        "date": "14/2",
-        "result": "W",
-        "opponent": "CHE",
-        "isHome": true,
-        "score": "3-0"
-      },
-      {
-        "date": "22/2",
-        "result": "W",
-        "opponent": "SOU",
-        "isHome": false,
-        "score": "4-0"
-      },
-      {
-        "date": "25/2",
-        "result": null,
-        "opponent": "BOU",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "8/3",
-        "result": null,
-        "opponent": "FUL",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "15/3",
-        "result": null,
-        "opponent": "MCI",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "1/4",
-        "result": null,
-        "opponent": "AVL",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "5/4",
-        "result": null,
-        "opponent": "CRY",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "12/4",
-        "result": null,
-        "opponent": "LEI",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "19/4",
-        "result": null,
-        "opponent": "BRE",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "26/4",
-        "result": null,
-        "opponent": "WHU",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "3/5",
-        "result": null,
-        "opponent": "NEW",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "10/5",
-        "result": null,
-        "opponent": "WOL",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "18/5",
-        "result": null,
-        "opponent": "LIV",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "25/5",
-        "result": null,
-        "opponent": "TOT",
-        "isHome": false,
-        "score": "-"
-      }
-    ],
-    "rk": 9
-  },
-  {
-    "name": "Fulham",
-    "mp": 26,
-    "w": 10,
-    "d": 9,
-    "l": 7,
-    "gf": 38,
-    "ga": 35,
-    "gd": 3,
-    "pts": 39,
-    "top_team_scorer": "Raúl Jiménez - 9",
-    "form": [
-      {
-        "date": "16/8",
-        "result": "L",
-        "opponent": "MUN",
-        "isHome": false,
-        "score": "0-1"
-      },
-      {
-        "date": "24/8",
-        "result": "W",
-        "opponent": "LEI",
-        "isHome": true,
-        "score": "2-1"
-      },
-      {
-        "date": "31/8",
-        "result": "D",
-        "opponent": "IPS",
-        "isHome": false,
-        "score": "1-1"
-      },
-      {
-        "date": "14/9",
-        "result": "D",
-        "opponent": "WHU",
-        "isHome": true,
-        "score": "1-1"
-      },
-      {
-        "date": "21/9",
-        "result": "W",
-        "opponent": "NEW",
-        "isHome": true,
-        "score": "3-1"
-      },
-      {
-        "date": "28/9",
-        "result": "W",
-        "opponent": "NOT",
-        "isHome": false,
-        "score": "1-0"
-      },
-      {
-        "date": "5/10",
-        "result": "L",
-        "opponent": "MCI",
-        "isHome": false,
-        "score": "2-3"
-      },
-      {
-        "date": "19/10",
-        "result": "L",
-        "opponent": "AVL",
-        "isHome": true,
-        "score": "1-3"
-      },
-      {
-        "date": "26/10",
-        "result": "D",
-        "opponent": "EVE",
-        "isHome": false,
-        "score": "1-1"
-      },
-      {
-        "date": "4/11",
-        "result": "W",
-        "opponent": "BRE",
-        "isHome": true,
-        "score": "2-1"
-      },
-      {
-        "date": "9/11",
-        "result": "W",
-        "opponent": "CRY",
-        "isHome": false,
-        "score": "2-0"
-      },
-      {
-        "date": "23/11",
-        "result": "L",
-        "opponent": "WOL",
-        "isHome": true,
         "score": "1-4"
       },
       {
-        "date": "1/12",
-        "result": "D",
-        "opponent": "TOT",
-        "isHome": false,
-        "score": "1-1"
-      },
-      {
-        "date": "5/12",
-        "result": "W",
-        "opponent": "BRI",
-        "isHome": true,
-        "score": "3-1"
-      },
-      {
-        "date": "8/12",
-        "result": "D",
-        "opponent": "ARS",
-        "isHome": true,
-        "score": "1-1"
-      },
-      {
-        "date": "14/12",
-        "result": "D",
-        "opponent": "LIV",
-        "isHome": false,
-        "score": "2-2"
-      },
-      {
-        "date": "22/12",
-        "result": "D",
-        "opponent": "SOU",
-        "isHome": true,
-        "score": "0-0"
-      },
-      {
-        "date": "26/12",
-        "result": "W",
-        "opponent": "CHE",
-        "isHome": false,
-        "score": "2-1"
-      },
-      {
-        "date": "29/12",
-        "result": "D",
-        "opponent": "BOU",
-        "isHome": true,
-        "score": "2-2"
-      },
-      {
-        "date": "5/1",
-        "result": "D",
-        "opponent": "IPS",
-        "isHome": true,
-        "score": "2-2"
-      },
-      {
-        "date": "14/1",
-        "result": "L",
-        "opponent": "WHU",
-        "isHome": false,
-        "score": "2-3"
-      },
-      {
-        "date": "18/1",
-        "result": "W",
-        "opponent": "LEI",
-        "isHome": false,
-        "score": "2-0"
-      },
-      {
-        "date": "26/1",
-        "result": "L",
-        "opponent": "MUN",
-        "isHome": true,
-        "score": "0-1"
-      },
-      {
-        "date": "1/2",
-        "result": "W",
-        "opponent": "NEW",
-        "isHome": false,
-        "score": "2-1"
-      },
-      {
-        "date": "15/2",
-        "result": "W",
-        "opponent": "NOT",
-        "isHome": true,
-        "score": "2-1"
-      },
-      {
-        "date": "22/2",
-        "result": "L",
-        "opponent": "CRY",
-        "isHome": true,
-        "score": "0-2"
-      },
-      {
-        "date": "25/2",
-        "result": null,
-        "opponent": "WOL",
-        "isHome": false,
-        "score": "-"
-      },
-      {
         "date": "8/3",
-        "result": null,
-        "opponent": "BRI",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "16/3",
-        "result": null,
-        "opponent": "TOT",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "1/4",
-        "result": null,
-        "opponent": "ARS",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "5/4",
-        "result": null,
-        "opponent": "LIV",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "12/4",
-        "result": null,
-        "opponent": "BOU",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "19/4",
-        "result": null,
-        "opponent": "CHE",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "26/4",
-        "result": null,
-        "opponent": "SOU",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "3/5",
-        "result": null,
-        "opponent": "AVL",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "10/5",
-        "result": null,
-        "opponent": "EVE",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "18/5",
         "result": null,
         "opponent": "BRE",
         "isHome": false,
         "score": "-"
       },
       {
-        "date": "25/5",
+        "date": "1/4",
+        "result": null,
+        "opponent": "BRI",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "5/4",
+        "result": null,
+        "opponent": "NOT",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "12/4",
+        "result": null,
+        "opponent": "SOU",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "19/4",
+        "result": null,
+        "opponent": "NEW",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "28/4",
         "result": null,
         "opponent": "MCI",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "3/5",
+        "result": null,
+        "opponent": "FUL",
         "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "10/5",
+        "result": null,
+        "opponent": "BOU",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "18/5",
+        "result": null,
+        "opponent": "TOT",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "25/5",
+        "result": null,
+        "opponent": "MUN",
+        "isHome": false,
         "score": "-"
       }
     ],
@@ -2811,14 +2811,14 @@
   },
   {
     "name": "Brentford",
-    "mp": 26,
+    "mp": 27,
     "w": 11,
-    "d": 4,
+    "d": 5,
     "l": 11,
-    "gf": 47,
-    "ga": 42,
+    "gf": 48,
+    "ga": 43,
     "gd": 5,
-    "pts": 37,
+    "pts": 38,
     "top_team_scorer": "Bryan Mbeumo - 15",
     "form": [
       {
@@ -3005,10 +3005,10 @@
       },
       {
         "date": "26/2",
-        "result": null,
+        "result": "D",
         "opponent": "EVE",
         "isHome": true,
-        "score": "-"
+        "score": "1-1"
       },
       {
         "date": "8/3",
@@ -3032,7 +3032,7 @@
         "score": "-"
       },
       {
-        "date": "5/4",
+        "date": "6/4",
         "result": null,
         "opponent": "CHE",
         "isHome": true,
@@ -3091,14 +3091,295 @@
     "rk": 11
   },
   {
+    "name": "Crystal Palace",
+    "mp": 27,
+    "w": 9,
+    "d": 9,
+    "l": 9,
+    "gf": 35,
+    "ga": 33,
+    "gd": 2,
+    "pts": 36,
+    "top_team_scorer": "Jean-Philippe Mateta - 12",
+    "form": [
+      {
+        "date": "18/8",
+        "result": "L",
+        "opponent": "BRE",
+        "isHome": false,
+        "score": "1-2"
+      },
+      {
+        "date": "24/8",
+        "result": "L",
+        "opponent": "WHU",
+        "isHome": true,
+        "score": "0-2"
+      },
+      {
+        "date": "1/9",
+        "result": "D",
+        "opponent": "CHE",
+        "isHome": false,
+        "score": "1-1"
+      },
+      {
+        "date": "14/9",
+        "result": "D",
+        "opponent": "LEI",
+        "isHome": true,
+        "score": "2-2"
+      },
+      {
+        "date": "21/9",
+        "result": "D",
+        "opponent": "MUN",
+        "isHome": true,
+        "score": "0-0"
+      },
+      {
+        "date": "28/9",
+        "result": "L",
+        "opponent": "EVE",
+        "isHome": false,
+        "score": "1-2"
+      },
+      {
+        "date": "5/10",
+        "result": "L",
+        "opponent": "LIV",
+        "isHome": true,
+        "score": "0-1"
+      },
+      {
+        "date": "21/10",
+        "result": "L",
+        "opponent": "NOT",
+        "isHome": false,
+        "score": "0-1"
+      },
+      {
+        "date": "27/10",
+        "result": "W",
+        "opponent": "TOT",
+        "isHome": true,
+        "score": "1-0"
+      },
+      {
+        "date": "2/11",
+        "result": "D",
+        "opponent": "WOL",
+        "isHome": false,
+        "score": "2-2"
+      },
+      {
+        "date": "9/11",
+        "result": "L",
+        "opponent": "FUL",
+        "isHome": true,
+        "score": "0-2"
+      },
+      {
+        "date": "23/11",
+        "result": "D",
+        "opponent": "AVL",
+        "isHome": false,
+        "score": "2-2"
+      },
+      {
+        "date": "30/11",
+        "result": "D",
+        "opponent": "NEW",
+        "isHome": true,
+        "score": "1-1"
+      },
+      {
+        "date": "3/12",
+        "result": "W",
+        "opponent": "IPS",
+        "isHome": false,
+        "score": "1-0"
+      },
+      {
+        "date": "7/12",
+        "result": "D",
+        "opponent": "MCI",
+        "isHome": true,
+        "score": "2-2"
+      },
+      {
+        "date": "15/12",
+        "result": "W",
+        "opponent": "BRI",
+        "isHome": false,
+        "score": "3-1"
+      },
+      {
+        "date": "21/12",
+        "result": "L",
+        "opponent": "ARS",
+        "isHome": true,
+        "score": "1-5"
+      },
+      {
+        "date": "26/12",
+        "result": "D",
+        "opponent": "BOU",
+        "isHome": false,
+        "score": "0-0"
+      },
+      {
+        "date": "29/12",
+        "result": "W",
+        "opponent": "SOU",
+        "isHome": true,
+        "score": "2-1"
+      },
+      {
+        "date": "4/1",
+        "result": "D",
+        "opponent": "CHE",
+        "isHome": true,
+        "score": "1-1"
+      },
+      {
+        "date": "15/1",
+        "result": "W",
+        "opponent": "LEI",
+        "isHome": false,
+        "score": "2-0"
+      },
+      {
+        "date": "18/1",
+        "result": "W",
+        "opponent": "WHU",
+        "isHome": false,
+        "score": "2-0"
+      },
+      {
+        "date": "26/1",
+        "result": "L",
+        "opponent": "BRE",
+        "isHome": true,
+        "score": "1-2"
+      },
+      {
+        "date": "2/2",
+        "result": "W",
+        "opponent": "MUN",
+        "isHome": false,
+        "score": "2-0"
+      },
+      {
+        "date": "15/2",
+        "result": "L",
+        "opponent": "EVE",
+        "isHome": true,
+        "score": "1-2"
+      },
+      {
+        "date": "22/2",
+        "result": "W",
+        "opponent": "FUL",
+        "isHome": false,
+        "score": "2-0"
+      },
+      {
+        "date": "25/2",
+        "result": "W",
+        "opponent": "AVL",
+        "isHome": true,
+        "score": "4-1"
+      },
+      {
+        "date": "8/3",
+        "result": null,
+        "opponent": "IPS",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "2/4",
+        "result": null,
+        "opponent": "SOU",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "5/4",
+        "result": null,
+        "opponent": "BRI",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "12/4",
+        "result": null,
+        "opponent": "MCI",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "16/4",
+        "result": null,
+        "opponent": "NEW",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "19/4",
+        "result": null,
+        "opponent": "BOU",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "26/4",
+        "result": null,
+        "opponent": "ARS",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "3/5",
+        "result": null,
+        "opponent": "NOT",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "10/5",
+        "result": null,
+        "opponent": "TOT",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "18/5",
+        "result": null,
+        "opponent": "WOL",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "25/5",
+        "result": null,
+        "opponent": "LIV",
+        "isHome": false,
+        "score": "-"
+      }
+    ],
+    "rk": 12
+  },
+  {
     "name": "Tottenham",
-    "mp": 26,
+    "mp": 27,
     "w": 10,
     "d": 3,
-    "l": 13,
+    "l": 14,
     "gf": 53,
-    "ga": 38,
-    "gd": 15,
+    "ga": 39,
+    "gd": 14,
     "pts": 33,
     "top_team_scorer": "James Maddison, Brennan Johnson - 9",
     "form": [
@@ -3286,10 +3567,10 @@
       },
       {
         "date": "26/2",
-        "result": null,
+        "result": "L",
         "opponent": "MCI",
         "isHome": true,
-        "score": "-"
+        "score": "0-1"
       },
       {
         "date": "9/3",
@@ -3306,14 +3587,14 @@
         "score": "-"
       },
       {
-        "date": "2/4",
+        "date": "3/4",
         "result": null,
         "opponent": "CHE",
         "isHome": false,
         "score": "-"
       },
       {
-        "date": "5/4",
+        "date": "6/4",
         "result": null,
         "opponent": "SOU",
         "isHome": true,
@@ -3327,14 +3608,14 @@
         "score": "-"
       },
       {
-        "date": "19/4",
+        "date": "21/4",
         "result": null,
         "opponent": "NOT",
         "isHome": true,
         "score": "-"
       },
       {
-        "date": "26/4",
+        "date": "27/4",
         "result": null,
         "opponent": "LIV",
         "isHome": false,
@@ -3366,583 +3647,21 @@
         "result": null,
         "opponent": "BRI",
         "isHome": true,
-        "score": "-"
-      }
-    ],
-    "rk": 12
-  },
-  {
-    "name": "Crystal Palace",
-    "mp": 26,
-    "w": 8,
-    "d": 9,
-    "l": 9,
-    "gf": 31,
-    "ga": 32,
-    "gd": -1,
-    "pts": 33,
-    "top_team_scorer": "Jean-Philippe Mateta - 11",
-    "form": [
-      {
-        "date": "18/8",
-        "result": "L",
-        "opponent": "BRE",
-        "isHome": false,
-        "score": "1-2"
-      },
-      {
-        "date": "24/8",
-        "result": "L",
-        "opponent": "WHU",
-        "isHome": true,
-        "score": "0-2"
-      },
-      {
-        "date": "1/9",
-        "result": "D",
-        "opponent": "CHE",
-        "isHome": false,
-        "score": "1-1"
-      },
-      {
-        "date": "14/9",
-        "result": "D",
-        "opponent": "LEI",
-        "isHome": true,
-        "score": "2-2"
-      },
-      {
-        "date": "21/9",
-        "result": "D",
-        "opponent": "MUN",
-        "isHome": true,
-        "score": "0-0"
-      },
-      {
-        "date": "28/9",
-        "result": "L",
-        "opponent": "EVE",
-        "isHome": false,
-        "score": "1-2"
-      },
-      {
-        "date": "5/10",
-        "result": "L",
-        "opponent": "LIV",
-        "isHome": true,
-        "score": "0-1"
-      },
-      {
-        "date": "21/10",
-        "result": "L",
-        "opponent": "NOT",
-        "isHome": false,
-        "score": "0-1"
-      },
-      {
-        "date": "27/10",
-        "result": "W",
-        "opponent": "TOT",
-        "isHome": true,
-        "score": "1-0"
-      },
-      {
-        "date": "2/11",
-        "result": "D",
-        "opponent": "WOL",
-        "isHome": false,
-        "score": "2-2"
-      },
-      {
-        "date": "9/11",
-        "result": "L",
-        "opponent": "FUL",
-        "isHome": true,
-        "score": "0-2"
-      },
-      {
-        "date": "23/11",
-        "result": "D",
-        "opponent": "AVL",
-        "isHome": false,
-        "score": "2-2"
-      },
-      {
-        "date": "30/11",
-        "result": "D",
-        "opponent": "NEW",
-        "isHome": true,
-        "score": "1-1"
-      },
-      {
-        "date": "3/12",
-        "result": "W",
-        "opponent": "IPS",
-        "isHome": false,
-        "score": "1-0"
-      },
-      {
-        "date": "7/12",
-        "result": "D",
-        "opponent": "MCI",
-        "isHome": true,
-        "score": "2-2"
-      },
-      {
-        "date": "15/12",
-        "result": "W",
-        "opponent": "BRI",
-        "isHome": false,
-        "score": "3-1"
-      },
-      {
-        "date": "21/12",
-        "result": "L",
-        "opponent": "ARS",
-        "isHome": true,
-        "score": "1-5"
-      },
-      {
-        "date": "26/12",
-        "result": "D",
-        "opponent": "BOU",
-        "isHome": false,
-        "score": "0-0"
-      },
-      {
-        "date": "29/12",
-        "result": "W",
-        "opponent": "SOU",
-        "isHome": true,
-        "score": "2-1"
-      },
-      {
-        "date": "4/1",
-        "result": "D",
-        "opponent": "CHE",
-        "isHome": true,
-        "score": "1-1"
-      },
-      {
-        "date": "15/1",
-        "result": "W",
-        "opponent": "LEI",
-        "isHome": false,
-        "score": "2-0"
-      },
-      {
-        "date": "18/1",
-        "result": "W",
-        "opponent": "WHU",
-        "isHome": false,
-        "score": "2-0"
-      },
-      {
-        "date": "26/1",
-        "result": "L",
-        "opponent": "BRE",
-        "isHome": true,
-        "score": "1-2"
-      },
-      {
-        "date": "2/2",
-        "result": "W",
-        "opponent": "MUN",
-        "isHome": false,
-        "score": "2-0"
-      },
-      {
-        "date": "15/2",
-        "result": "L",
-        "opponent": "EVE",
-        "isHome": true,
-        "score": "1-2"
-      },
-      {
-        "date": "22/2",
-        "result": "W",
-        "opponent": "FUL",
-        "isHome": false,
-        "score": "2-0"
-      },
-      {
-        "date": "25/2",
-        "result": null,
-        "opponent": "AVL",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "8/3",
-        "result": null,
-        "opponent": "IPS",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "2/4",
-        "result": null,
-        "opponent": "SOU",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "5/4",
-        "result": null,
-        "opponent": "BRI",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "12/4",
-        "result": null,
-        "opponent": "MCI",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "16/4",
-        "result": null,
-        "opponent": "NEW",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "19/4",
-        "result": null,
-        "opponent": "BOU",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "26/4",
-        "result": null,
-        "opponent": "ARS",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "3/5",
-        "result": null,
-        "opponent": "NOT",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "10/5",
-        "result": null,
-        "opponent": "TOT",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "18/5",
-        "result": null,
-        "opponent": "WOL",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "25/5",
-        "result": null,
-        "opponent": "LIV",
-        "isHome": false,
         "score": "-"
       }
     ],
     "rk": 13
   },
   {
-    "name": "Everton",
-    "mp": 26,
-    "w": 7,
-    "d": 10,
-    "l": 9,
-    "gf": 29,
-    "ga": 33,
-    "gd": -4,
-    "pts": 31,
-    "top_team_scorer": "Iliman Ndiaye, Beto - 6",
-    "form": [
-      {
-        "date": "17/8",
-        "result": "L",
-        "opponent": "BRI",
-        "isHome": true,
-        "score": "0-3"
-      },
-      {
-        "date": "24/8",
-        "result": "L",
-        "opponent": "TOT",
-        "isHome": false,
-        "score": "0-4"
-      },
-      {
-        "date": "31/8",
-        "result": "L",
-        "opponent": "BOU",
-        "isHome": true,
-        "score": "2-3"
-      },
-      {
-        "date": "14/9",
-        "result": "L",
-        "opponent": "AVL",
-        "isHome": false,
-        "score": "2-3"
-      },
-      {
-        "date": "21/9",
-        "result": "D",
-        "opponent": "LEI",
-        "isHome": false,
-        "score": "1-1"
-      },
-      {
-        "date": "28/9",
-        "result": "W",
-        "opponent": "CRY",
-        "isHome": true,
-        "score": "2-1"
-      },
-      {
-        "date": "5/10",
-        "result": "D",
-        "opponent": "NEW",
-        "isHome": true,
-        "score": "0-0"
-      },
-      {
-        "date": "19/10",
-        "result": "W",
-        "opponent": "IPS",
-        "isHome": false,
-        "score": "2-0"
-      },
-      {
-        "date": "26/10",
-        "result": "D",
-        "opponent": "FUL",
-        "isHome": true,
-        "score": "1-1"
-      },
-      {
-        "date": "2/11",
-        "result": "L",
-        "opponent": "SOU",
-        "isHome": false,
-        "score": "0-1"
-      },
-      {
-        "date": "9/11",
-        "result": "D",
-        "opponent": "WHU",
-        "isHome": false,
-        "score": "0-0"
-      },
-      {
-        "date": "23/11",
-        "result": "D",
-        "opponent": "BRE",
-        "isHome": true,
-        "score": "0-0"
-      },
-      {
-        "date": "1/12",
-        "result": "L",
-        "opponent": "MUN",
-        "isHome": false,
-        "score": "0-4"
-      },
-      {
-        "date": "4/12",
-        "result": "W",
-        "opponent": "WOL",
-        "isHome": true,
-        "score": "4-0"
-      },
-      {
-        "date": "14/12",
-        "result": "D",
-        "opponent": "ARS",
-        "isHome": false,
-        "score": "0-0"
-      },
-      {
-        "date": "22/12",
-        "result": "D",
-        "opponent": "CHE",
-        "isHome": true,
-        "score": "0-0"
-      },
-      {
-        "date": "26/12",
-        "result": "D",
-        "opponent": "MCI",
-        "isHome": false,
-        "score": "1-1"
-      },
-      {
-        "date": "29/12",
-        "result": "L",
-        "opponent": "NOT",
-        "isHome": true,
-        "score": "0-2"
-      },
-      {
-        "date": "4/1",
-        "result": "L",
-        "opponent": "BOU",
-        "isHome": false,
-        "score": "0-1"
-      },
-      {
-        "date": "15/1",
-        "result": "L",
-        "opponent": "AVL",
-        "isHome": true,
-        "score": "0-1"
-      },
-      {
-        "date": "19/1",
-        "result": "W",
-        "opponent": "TOT",
-        "isHome": true,
-        "score": "3-2"
-      },
-      {
-        "date": "25/1",
-        "result": "W",
-        "opponent": "BRI",
-        "isHome": false,
-        "score": "1-0"
-      },
-      {
-        "date": "1/2",
-        "result": "W",
-        "opponent": "LEI",
-        "isHome": true,
-        "score": "4-0"
-      },
-      {
-        "date": "12/2",
-        "result": "D",
-        "opponent": "LIV",
-        "isHome": true,
-        "score": "2-2"
-      },
-      {
-        "date": "15/2",
-        "result": "W",
-        "opponent": "CRY",
-        "isHome": false,
-        "score": "2-1"
-      },
-      {
-        "date": "22/2",
-        "result": "D",
-        "opponent": "MUN",
-        "isHome": true,
-        "score": "2-2"
-      },
-      {
-        "date": "26/2",
-        "result": null,
-        "opponent": "BRE",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "8/3",
-        "result": null,
-        "opponent": "WOL",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "15/3",
-        "result": null,
-        "opponent": "WHU",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "2/4",
-        "result": null,
-        "opponent": "LIV",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "5/4",
-        "result": null,
-        "opponent": "ARS",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "12/4",
-        "result": null,
-        "opponent": "NOT",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "19/4",
-        "result": null,
-        "opponent": "MCI",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "26/4",
-        "result": null,
-        "opponent": "CHE",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "3/5",
-        "result": null,
-        "opponent": "IPS",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "10/5",
-        "result": null,
-        "opponent": "FUL",
-        "isHome": false,
-        "score": "-"
-      },
-      {
-        "date": "18/5",
-        "result": null,
-        "opponent": "SOU",
-        "isHome": true,
-        "score": "-"
-      },
-      {
-        "date": "25/5",
-        "result": null,
-        "opponent": "NEW",
-        "isHome": false,
-        "score": "-"
-      }
-    ],
-    "rk": 14
-  },
-  {
     "name": "Manchester Utd",
-    "mp": 26,
-    "w": 8,
+    "mp": 27,
+    "w": 9,
     "d": 6,
     "l": 12,
-    "gf": 30,
-    "ga": 37,
-    "gd": -7,
-    "pts": 30,
+    "gf": 33,
+    "ga": 39,
+    "gd": -6,
+    "pts": 33,
     "top_team_scorer": "Bruno Fernandes, Amad Diallo - 6",
     "form": [
       {
@@ -4129,10 +3848,10 @@
       },
       {
         "date": "26/2",
-        "result": null,
+        "result": "W",
         "opponent": "IPS",
         "isHome": true,
-        "score": "-"
+        "score": "3-2"
       },
       {
         "date": "9/3",
@@ -4156,14 +3875,14 @@
         "score": "-"
       },
       {
-        "date": "5/4",
+        "date": "6/4",
         "result": null,
         "opponent": "MCI",
         "isHome": true,
         "score": "-"
       },
       {
-        "date": "12/4",
+        "date": "13/4",
         "result": null,
         "opponent": "NEW",
         "isHome": false,
@@ -4177,7 +3896,7 @@
         "score": "-"
       },
       {
-        "date": "26/4",
+        "date": "27/4",
         "result": null,
         "opponent": "BOU",
         "isHome": false,
@@ -4212,18 +3931,18 @@
         "score": "-"
       }
     ],
-    "rk": 15
+    "rk": 14
   },
   {
     "name": "West Ham",
-    "mp": 26,
-    "w": 8,
+    "mp": 27,
+    "w": 9,
     "d": 6,
     "l": 12,
-    "gf": 30,
+    "gf": 32,
     "ga": 47,
-    "gd": -17,
-    "pts": 30,
+    "gd": -15,
+    "pts": 33,
     "top_team_scorer": "Jarrod Bowen - 7",
     "form": [
       {
@@ -4410,10 +4129,10 @@
       },
       {
         "date": "27/2",
-        "result": null,
+        "result": "W",
         "opponent": "LEI",
         "isHome": true,
-        "score": "-"
+        "score": "2-0"
       },
       {
         "date": "10/3",
@@ -4444,7 +4163,7 @@
         "score": "-"
       },
       {
-        "date": "12/4",
+        "date": "13/4",
         "result": null,
         "opponent": "LIV",
         "isHome": false,
@@ -4493,17 +4212,298 @@
         "score": "-"
       }
     ],
+    "rk": 15
+  },
+  {
+    "name": "Everton",
+    "mp": 27,
+    "w": 7,
+    "d": 11,
+    "l": 9,
+    "gf": 30,
+    "ga": 34,
+    "gd": -4,
+    "pts": 32,
+    "top_team_scorer": "Iliman Ndiaye, Beto - 6",
+    "form": [
+      {
+        "date": "17/8",
+        "result": "L",
+        "opponent": "BRI",
+        "isHome": true,
+        "score": "0-3"
+      },
+      {
+        "date": "24/8",
+        "result": "L",
+        "opponent": "TOT",
+        "isHome": false,
+        "score": "0-4"
+      },
+      {
+        "date": "31/8",
+        "result": "L",
+        "opponent": "BOU",
+        "isHome": true,
+        "score": "2-3"
+      },
+      {
+        "date": "14/9",
+        "result": "L",
+        "opponent": "AVL",
+        "isHome": false,
+        "score": "2-3"
+      },
+      {
+        "date": "21/9",
+        "result": "D",
+        "opponent": "LEI",
+        "isHome": false,
+        "score": "1-1"
+      },
+      {
+        "date": "28/9",
+        "result": "W",
+        "opponent": "CRY",
+        "isHome": true,
+        "score": "2-1"
+      },
+      {
+        "date": "5/10",
+        "result": "D",
+        "opponent": "NEW",
+        "isHome": true,
+        "score": "0-0"
+      },
+      {
+        "date": "19/10",
+        "result": "W",
+        "opponent": "IPS",
+        "isHome": false,
+        "score": "2-0"
+      },
+      {
+        "date": "26/10",
+        "result": "D",
+        "opponent": "FUL",
+        "isHome": true,
+        "score": "1-1"
+      },
+      {
+        "date": "2/11",
+        "result": "L",
+        "opponent": "SOU",
+        "isHome": false,
+        "score": "0-1"
+      },
+      {
+        "date": "9/11",
+        "result": "D",
+        "opponent": "WHU",
+        "isHome": false,
+        "score": "0-0"
+      },
+      {
+        "date": "23/11",
+        "result": "D",
+        "opponent": "BRE",
+        "isHome": true,
+        "score": "0-0"
+      },
+      {
+        "date": "1/12",
+        "result": "L",
+        "opponent": "MUN",
+        "isHome": false,
+        "score": "0-4"
+      },
+      {
+        "date": "4/12",
+        "result": "W",
+        "opponent": "WOL",
+        "isHome": true,
+        "score": "4-0"
+      },
+      {
+        "date": "14/12",
+        "result": "D",
+        "opponent": "ARS",
+        "isHome": false,
+        "score": "0-0"
+      },
+      {
+        "date": "22/12",
+        "result": "D",
+        "opponent": "CHE",
+        "isHome": true,
+        "score": "0-0"
+      },
+      {
+        "date": "26/12",
+        "result": "D",
+        "opponent": "MCI",
+        "isHome": false,
+        "score": "1-1"
+      },
+      {
+        "date": "29/12",
+        "result": "L",
+        "opponent": "NOT",
+        "isHome": true,
+        "score": "0-2"
+      },
+      {
+        "date": "4/1",
+        "result": "L",
+        "opponent": "BOU",
+        "isHome": false,
+        "score": "0-1"
+      },
+      {
+        "date": "15/1",
+        "result": "L",
+        "opponent": "AVL",
+        "isHome": true,
+        "score": "0-1"
+      },
+      {
+        "date": "19/1",
+        "result": "W",
+        "opponent": "TOT",
+        "isHome": true,
+        "score": "3-2"
+      },
+      {
+        "date": "25/1",
+        "result": "W",
+        "opponent": "BRI",
+        "isHome": false,
+        "score": "1-0"
+      },
+      {
+        "date": "1/2",
+        "result": "W",
+        "opponent": "LEI",
+        "isHome": true,
+        "score": "4-0"
+      },
+      {
+        "date": "12/2",
+        "result": "D",
+        "opponent": "LIV",
+        "isHome": true,
+        "score": "2-2"
+      },
+      {
+        "date": "15/2",
+        "result": "W",
+        "opponent": "CRY",
+        "isHome": false,
+        "score": "2-1"
+      },
+      {
+        "date": "22/2",
+        "result": "D",
+        "opponent": "MUN",
+        "isHome": true,
+        "score": "2-2"
+      },
+      {
+        "date": "26/2",
+        "result": "D",
+        "opponent": "BRE",
+        "isHome": false,
+        "score": "1-1"
+      },
+      {
+        "date": "8/3",
+        "result": null,
+        "opponent": "WOL",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "15/3",
+        "result": null,
+        "opponent": "WHU",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "2/4",
+        "result": null,
+        "opponent": "LIV",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "5/4",
+        "result": null,
+        "opponent": "ARS",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "12/4",
+        "result": null,
+        "opponent": "NOT",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "19/4",
+        "result": null,
+        "opponent": "MCI",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "26/4",
+        "result": null,
+        "opponent": "CHE",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "3/5",
+        "result": null,
+        "opponent": "IPS",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "10/5",
+        "result": null,
+        "opponent": "FUL",
+        "isHome": false,
+        "score": "-"
+      },
+      {
+        "date": "18/5",
+        "result": null,
+        "opponent": "SOU",
+        "isHome": true,
+        "score": "-"
+      },
+      {
+        "date": "25/5",
+        "result": null,
+        "opponent": "NEW",
+        "isHome": false,
+        "score": "-"
+      }
+    ],
     "rk": 16
   },
   {
     "name": "Wolves",
-    "mp": 26,
+    "mp": 27,
     "w": 6,
     "d": 4,
-    "l": 16,
-    "gf": 36,
-    "ga": 54,
-    "gd": -18,
+    "l": 17,
+    "gf": 37,
+    "ga": 56,
+    "gd": -19,
     "pts": 22,
     "top_team_scorer": "Matheus Cunha - 13",
     "form": [
@@ -4691,10 +4691,10 @@
       },
       {
         "date": "25/2",
-        "result": null,
+        "result": "L",
         "opponent": "FUL",
         "isHome": true,
-        "score": "-"
+        "score": "1-2"
       },
       {
         "date": "8/3",
@@ -4778,13 +4778,13 @@
   },
   {
     "name": "Ipswich Town",
-    "mp": 26,
+    "mp": 27,
     "w": 3,
     "d": 8,
-    "l": 15,
-    "gf": 24,
-    "ga": 54,
-    "gd": -30,
+    "l": 16,
+    "gf": 26,
+    "ga": 57,
+    "gd": -31,
     "pts": 17,
     "top_team_scorer": "Liam Delap - 10",
     "form": [
@@ -4972,10 +4972,10 @@
       },
       {
         "date": "26/2",
-        "result": null,
+        "result": "L",
         "opponent": "MUN",
         "isHome": false,
-        "score": "-"
+        "score": "2-3"
       },
       {
         "date": "8/3",
@@ -5013,7 +5013,7 @@
         "score": "-"
       },
       {
-        "date": "19/4",
+        "date": "20/4",
         "result": null,
         "opponent": "ARS",
         "isHome": true,
@@ -5059,13 +5059,13 @@
   },
   {
     "name": "Leicester City",
-    "mp": 26,
+    "mp": 27,
     "w": 4,
     "d": 5,
-    "l": 17,
+    "l": 18,
     "gf": 25,
-    "ga": 59,
-    "gd": -34,
+    "ga": 61,
+    "gd": -36,
     "pts": 17,
     "top_team_scorer": "Jamie Vardy - 7",
     "form": [
@@ -5253,10 +5253,10 @@
       },
       {
         "date": "27/2",
-        "result": null,
+        "result": "L",
         "opponent": "WHU",
         "isHome": false,
-        "score": "-"
+        "score": "0-2"
       },
       {
         "date": "9/3",
@@ -5280,7 +5280,7 @@
         "score": "-"
       },
       {
-        "date": "5/4",
+        "date": "7/4",
         "result": null,
         "opponent": "NEW",
         "isHome": true,
@@ -5294,7 +5294,7 @@
         "score": "-"
       },
       {
-        "date": "19/4",
+        "date": "20/4",
         "result": null,
         "opponent": "LIV",
         "isHome": true,
@@ -5340,13 +5340,13 @@
   },
   {
     "name": "Southampton",
-    "mp": 26,
+    "mp": 27,
     "w": 2,
     "d": 3,
-    "l": 21,
+    "l": 22,
     "gf": 19,
-    "ga": 61,
-    "gd": -42,
+    "ga": 65,
+    "gd": -46,
     "pts": 9,
     "top_team_scorer": "Joe Aribo - 3",
     "form": [
@@ -5534,10 +5534,10 @@
       },
       {
         "date": "25/2",
-        "result": null,
+        "result": "L",
         "opponent": "CHE",
         "isHome": false,
-        "score": "-"
+        "score": "0-4"
       },
       {
         "date": "8/3",
@@ -5561,7 +5561,7 @@
         "score": "-"
       },
       {
-        "date": "5/4",
+        "date": "6/4",
         "result": null,
         "opponent": "TOT",
         "isHome": false,
